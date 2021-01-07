@@ -10,3 +10,5 @@ squash
 single
 
 single squash
+
+single rebase
