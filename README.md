@@ -8,3 +8,5 @@ added by merge branch
 squash
 
 single
+
+single squash
