@@ -6,3 +6,5 @@ Hi Humans
 added by merge branch
 
 squash
+
+single
