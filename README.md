@@ -14,3 +14,5 @@ single squash
 single rebase
 
 br
+
+pr
